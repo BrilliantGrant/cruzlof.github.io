@@ -6,7 +6,7 @@
 
 ## Description
    
-   This is an independent project whereby i designed my web portfoliop.pThe portfolio contains my intrests in programming,hobbies and other projects.
+   This is an independent project whereby I designed my web portfoliop.pThe portfolio contains my intrests in programming,hobbies and other projects.
 
 ## Installation Requirements
 	open index.html file with browser
