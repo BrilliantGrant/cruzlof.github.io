@@ -1,3 +1,17 @@
 body{
-	background: #ede;
+	background-image: url(http://www.bhmpics.com/walls/eiffel_tower_paris_pink_sky-wide.jpg);
+	background-repeat: no-repeat;
+}
+
+
+h1 { 
+	font-size: 40px 
+}
+
+p {
+	color: black
+}
+
+h4 {
+	font-size: "100px"
 }
