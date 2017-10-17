@@ -6,7 +6,7 @@
 
 ## Description
    
-   This Pproject is based on my thesis.s an independent project of designing my own portfolio.
+   This Project is based on my thesis.In that case my goal was to design a portfolio of myself.
 
 ## Installation Requirements
 	open index.html file with browser
