@@ -1,4 +1,4 @@
-# project
+# Portfolio webpage
 
 #### Indepedent Project, 13th october 2017
 
@@ -6,7 +6,7 @@
 
 ## Description
    
-   This is an independent project whereby I designed my web portfoliop.pThe portfolio contains my intrests in programming,hobbies and other projects.
+   This is an independent project of designing my own portfolio.
 
 ## Installation Requirements
 	open index.html file with browser
