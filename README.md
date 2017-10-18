@@ -11,6 +11,9 @@
 ## Installation Requirements
 	open index.html file with browser
 	my laptop installations ubuntu linux.It was very easy to install.
+	Atleast have a computer or a laptop
+	Have an internet connection
+	A README.md file
 
 ## Technologies Used
 Added Html and css style
