@@ -1,4 +1,4 @@
-# KaimsPortfolio webpage
+# Kaims Portfolio webpage
 
 #### Indepedent Project, 13th october 2017
 
