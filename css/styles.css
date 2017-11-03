@@ -96,10 +96,6 @@ ul a{
   width: 50%;
 }
 
-.comingSoon{
-  font-size: 50%;
-}
-
 #aboutText p{
   font-size: 16px;
 }
@@ -125,7 +121,7 @@ ul a{
 }
 
 ol{
-  list-style: circle;
+  list-style: inherit;
 }
 
 .aboutShowing{
