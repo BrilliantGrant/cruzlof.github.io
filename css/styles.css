@@ -3,6 +3,9 @@ body{
 }
 
 
+}
+
+
 h1 { 
 	font-size: 40px ; color: black; 
 }
@@ -185,4 +188,39 @@ ol{
 
 .shroomHidden{
   cursor: crosshair;
+}
+.container3{
+  background-image: url(../images/p.gif);
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
+.container3{
+  background-image: url(../images/ws.gif);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.one{
+  background-color: blue;
+  margin-top: 20px;
+}
+.two{
+  background-color: pink;
+  background-color: lightgrey;
+    width: 700px;
+    border: 25px solid #9A8ADB;
+    padding: 25px;
+    margin-left: 300px;
+    
+}
+.tw{
+  background-color: blue;
+  margin-top: 20px;
+  margin-right: 80px;
+  margin-left: 80px;
+}
+.read{
+  background-color: blue;
+  margin-top: 20px;
+
 }
