@@ -221,6 +221,11 @@ ol{
 }
 .read{
   background-color: blue;
-  margin-top: 20px;
+  margin-top: 10px;
+}
 
+ #aboutText{
+  background-image: url(../images/ws.gif);
+  background-repeat: no-repeat;
+  background-size: cover;
 }
