@@ -1,18 +1,21 @@
 body{
-	background-image: url(https://www.bankerwire.com/sites/default/files/styles/project_gallery_large_1800x/public/projects/statue-liberty-renovation/statue-liberty-renovationhero_0.jpg?itok=9ffXoVRj)
+  background-image: url(https://www.bankerwire.com/sites/default/files/styles/project_gallery_large_1800x/public/projects/statue-liberty-renovation/statue-liberty-renovationhero_0.jpg?itok=9ffXoVRj)
+}
+
+
 }
 
 
 h1 { 
-	font-size: 40px ; color: black; 
+  font-size: 40px ; color: black; 
 }
 
 p {
-	color: black
+  color: black
 }
 
 h4 {
-	font-size: "100px"
+  font-size: "100px"
 }
 
 
@@ -185,4 +188,77 @@ ol{
 
 .shroomHidden{
   cursor: crosshair;
+}
+.container3{
+  background-image: url(../images/p.gif);
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
+.container4{
+  background-image: url(../images/ws.gif);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.container9{
+  background-image: url(../images/ws.gif);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.one{
+  background-color: blue;
+  margin-top: 20px;
+}
+.two{
+  background-color: pink;
+  background-color: lightgrey;
+    width: 700px;
+    height: 800px;
+    border: 25px solid #9A8ADB;
+    padding: 25px;
+    margin-left: 300px;
+    background-image: url(../images/im.gif);
+  background-repeat: no-repeat;
+  background-size: cover;
+  text-align: center;
+    
+}
+.tw{
+  background-color: blue;
+  margin-top: 20px;
+  margin-right: 80px;
+  margin-left: 80px;
+}
+.read{
+  background-color: blue;
+  margin-top: 10px;
+}
+
+ #aboutText{
+  background-image: url(../images/ws.gif);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+#education{
+  background-image: url(../images/o.gif);
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: black;
+}
+#Hobbies{
+  background-image: url(../images/g.gif);
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: green;
+}
+#itsMe{
+    background-color: lightgrey;
+    width: 1000px;
+    border: 25px solid #35BACC;
+    padding: 25px;
+    margin: 10px;
+
+
+
+    
 }
