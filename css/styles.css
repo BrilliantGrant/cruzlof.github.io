@@ -193,9 +193,10 @@ ol{
   cursor: crosshair;
 }
 .container3{
-  background-image: url(../images/p.gif);
+  background-image: url(../images/g.gif);
   background-repeat: no-repeat;
   background-size: cover;
+
 
 }
 .container4{
@@ -215,14 +216,16 @@ ol{
 .two{
   background-color: pink;
   background-color: lightgrey;
-    width: 700px;
-    height: 800px;
-    border: 25px solid #9A8ADB;
-    padding: 25px;
-    margin-left: 300px;
-    background-image: url(../images/im.gif);
+  width: 700px;
+  height: 800px;
+  border: 25px solid #87aeed;
+  padding: 25px;
+  margin-left: 300px;
+  background-image: url(../images/im.gif);
   background-repeat: no-repeat;
   background-size: cover;
+  text-align: center;
+  color: blue;
   text-align: center;
     
 }
@@ -255,13 +258,23 @@ ol{
   color: green;
 }
 #itsMe{
-    background-color: lightgrey;
+    background-color: #87aeed;
     width: 1000px;
-    border: 25px solid #35BACC;
-    padding: 25px;
+    border: 25px solid blue;
+    padding: 50px;
     margin: 10px;
+    padding-right: 20px;
+    border-top-right-radius: 50px;
+    border-top-left-radius: 50px;
+    border-bottom-left-radius: 50px;
+    border-bottom-right-radius: 50px;
 
 
 
     
+}
+#image1{
+  background-position: center;
+  border-top-right-radius: 10%;
+  border-bottom-left-radius: 10%;
 }
