@@ -19,7 +19,7 @@
 * Have an internet connection
 * A README.md file
 * A web browser
-* Visit 
+* Visit https://cruzlof.github.io/
 
 ## Technologies Used
 Technologies used to design my portfolio are HTML CSS style,Bootstrap and jQuery.
