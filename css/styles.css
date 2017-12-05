@@ -1,11 +1,8 @@
 body{
-  background-image: url(https://www.bankerwire.com/sites/default/files/styles/project_gallery_large_1800x/public/projects/statue-liberty-renovation/statue-liberty-renovationhero_0.jpg?itok=9ffXoVRj)
-}
-
-
-}
-
-
+  background-image: url(../images/lo.jpg);
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 
@@ -193,9 +190,10 @@ ol{
   cursor: crosshair;
 }
 .container3{
-  background-image: url(../images/g.gif);
+  background-image: url(../images/ws.gif);
   background-repeat: no-repeat;
   background-size: cover;
+
 
 
 }
@@ -216,12 +214,12 @@ ol{
 .two{
   background-color: pink;
   background-color: lightgrey;
-  width: 700px;
-  height: 800px;
-  border: 25px solid #87aeed;
+  
+  
+  border: 10px solid #87aeed;
   padding: 25px;
   margin-left: 300px;
-  background-image: url(../images/im.gif);
+  background-image: url(../images/.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   text-align: center;
@@ -244,18 +242,21 @@ ol{
   background-image: url(../images/ws.gif);
   background-repeat: no-repeat;
   background-size: cover;
+  
 }
 #education{
   background-image: url(../images/o.gif);
   background-repeat: no-repeat;
   background-size: cover;
   color: black;
+  
 }
 #Hobbies{
   background-image: url(../images/g.gif);
   background-repeat: no-repeat;
   background-size: cover;
   color: green;
+  
 }
 #itsMe{
     background-color: #87aeed;
@@ -277,4 +278,22 @@ ol{
   background-position: center;
   border-top-right-radius: 10%;
   border-bottom-left-radius: 10%;
+
 }
+.img-circle{
+display: block;
+border-radius: 200px;
+margin-top: 10px;
+width: 300px;
+height: 300px;
+margin-bottom: 100px;
+margin-right: 800;
+opacity: 0.8px;
+}
+.contaier3:hover #img-circle{
+  opacity: 0.8;
+}
+.contaier3{
+  background-size: cover;
+}
+
